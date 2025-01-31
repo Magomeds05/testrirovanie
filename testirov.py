@@ -5,7 +5,7 @@ from aiogram.utils import executor
 import requests
 from flask import Flask, request, jsonify
 
-API = '7760162438:AAFhnCr0jantPwzZaf-__XW0XeIUTXvKj2s'
+API = ''
 USERS = {357158811114185, 353742337513196}
 
 logging.basicConfig(level=logging.INFO)
